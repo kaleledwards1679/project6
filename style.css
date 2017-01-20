@@ -1,0 +1,23 @@
+h1{
+color: red ;
+text-align: auto ;
+}
+
+h2{
+text-align: auto ;
+font-style: italic;
+}
+
+p{
+color: green ;
+font-family: tahoma ;
+}
+
+ul{
+font-style: italic ;
+}
+
+ol{
+font-style: oblique ;
+font-size: 1.6em ;
+}
